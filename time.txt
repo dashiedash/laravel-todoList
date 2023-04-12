@@ -1,0 +1,26 @@
+TIME REPORT
+
+Intern: Elo Faith M. Flores
+
+Project name: Laravel Training - Day 1
+Time: 05:00 P.M. 
+Duration: [08:00:00] 
+
+Done: 
+
+1.  Watch Understand Laravel basics 2023 | Laravel tutorial | Laravel for beginners
+2.  Laravel 9 Tutorial Part 1 - installation [TAGALOG]
+3.  Create a blank Laravel app.
+4.  Create a To-do List Laravel App
+
+Next: 
+N/A
+
+Roadblock: 
+N/A
+
+Screenshots:
+https://i.imgur.com/hA7jInx.png
+https://i.imgur.com/j5usdm9.png
+https://i.imgur.com/6pLimbD.png
+https://i.imgur.com/7ffEqCD.png
